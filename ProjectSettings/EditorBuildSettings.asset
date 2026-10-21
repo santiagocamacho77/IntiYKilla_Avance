@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntiYKilla_Nivel1.unity
+    guid: 358da0005c9db9144aa722dbe3da1f26
+  - enabled: 1
+    path: Assets/Scenes/IntiYKilla_Nivel2.unity
+    guid: 46dd35cd52157db4fbc57982a836c071
+  - enabled: 1
+    path: Assets/Scenes/IntiYKilla_Nivel3.unity
+    guid: 2c00cf5ad7501744a8dfe02588c5995a
+  m_configObjects: {}
